@@ -70,7 +70,7 @@ function diaEventoAhora () {
       icon: 'success',
       html:
         'INGRESÁ' +
-        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d351.10706190178416!2d-62.85498733465906!3d-33.15343160874262!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ceca946776b9d1%3A0xb20230f41e9c8285!2sCancha%20de%20Bochas%20del%20Club%20A.%20C.%20y%20B.%20P.%20Recreativo!5e0!3m2!1ses-419!2sar!4v1728256999351!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
+        '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3340.3148035206095!2d-62.85779682496471!3d-33.15336138235797!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95ceca947aa0f8fd%3A0xfc9d9c73338b7724!2sBelgrano%20303%2C%20X2657%20Laborde%2C%20C%C3%B3rdoba!5e0!3m2!1ses-419!2sar!4v1728319042309!5m2!1ses-419!2sar" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>' +
         'Podes ampliar el mapa',
         
         
